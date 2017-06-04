@@ -1,6 +1,5 @@
 //云课堂昵称mooceveryday
- 
-import java.util.Scanner;
+ import java.util.Scanner;
 public class num {
 
 	public static void main(String[] args) {
