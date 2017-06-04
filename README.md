@@ -1,7 +1,7 @@
 //云课堂昵称mooceveryday
- import java.util.Scanner;
-public class num {
 
+import java.util.Scanner;
+public class num {
 	public static void main(String[] args) {
 		int num=0;
 		System.out.println("请输入一个三位数：");
@@ -14,5 +14,6 @@ public class num {
 		}
 	
 	}
+	
 
 }
